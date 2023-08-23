@@ -1,6 +1,6 @@
 /* c program to calculate surface area of a cuboid */
 #include<stdio.h>
-int main()
+void main()
 {
 	float l,b,h,sarea;
 	printf("enter length,breadth,height of a cuboid=");
