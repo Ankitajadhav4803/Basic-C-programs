@@ -1,6 +1,6 @@
 /* c program to accept two numbers from user and perform all arithmetic operations on them */
 #include<stdio.h>
-int main()
+void main()
 {
 	int x,y;
 	printf("enter two numbers=");
