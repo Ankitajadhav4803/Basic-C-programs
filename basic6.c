@@ -1,4 +1,4 @@
-/* c program to accept initial velocity(u),acceleration(a),time(t) and print the final velocity(v) and distance travelled(s) */
+/* c program to accept initial velocity(u),acceleration(a),time(t) and print the final velocity(v) and distance(s) travelled */
 #include<stdio.h>
 void main()
 {
