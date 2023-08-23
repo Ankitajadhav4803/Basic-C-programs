@@ -1,6 +1,6 @@
 /* c program to accept dimensions of a cylinder and print the surface area and volume of a cylinder */
 #include<stdio.h>
-int main()
+void main()
 {
 	float r,h,sarea,volume;
 	printf("enter radius,height of a cylinder=");
