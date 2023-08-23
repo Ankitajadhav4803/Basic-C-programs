@@ -1,6 +1,6 @@
 /* c program to calculate area and perimeter of a rectangle */
 #include<stdio.h>
-int main()
+void main()
 {
 	float l,b,area,perimeter;
 	printf("enter length of rectangle:");
