@@ -1,4 +1,4 @@
-/* c program to calculate surface area and volume of a cylinder */
+/* c program to accept dimensions of a cylinder and print the surface area and volume of a cylinder */
 #include<stdio.h>
 int main()
 {
