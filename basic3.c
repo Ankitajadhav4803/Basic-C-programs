@@ -1,6 +1,6 @@
 /* c program to calculate arithmetic mean and harmonic mean of the two numbers */
 #include<stdio.h>
-int main()
+void main()
 {
 	float a,b,am,hm;
 	printf("enter two numbers:");
