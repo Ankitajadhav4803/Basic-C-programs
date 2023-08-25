@@ -1,4 +1,4 @@
-/* c program to accept three dimensions length (l), breadth (b) and height (h) of a cuboid and print surface area of and volume */
+/* c program to accept three dimensions length (l), breadth (b) and height (h) of a cuboid and print surface area and volume */
 #include<stdio.h>
 void main()
 {
