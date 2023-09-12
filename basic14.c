@@ -1,4 +1,4 @@
-/* c program to accept marks for three subjects and find the total marks secured, average */
+/* c program to accept marks for three subjects and find the total marks secured and average */
 #include<stdio.h>
 void main()
 {
